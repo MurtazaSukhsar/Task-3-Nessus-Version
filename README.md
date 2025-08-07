@@ -61,21 +61,6 @@ Example Critical Issues:
 
 ---
 
-## 📁 Folder Structure
-
-```
-Task-3-OpenVAS-Version/
-├── README.md
-├── vulnerability_report.md
-├── openvas_win7_scan.pdf
-└── screenshots/
-    └── openvas_summary.png
-```
-
----
-
----
-
 ## ✅ Outcome
 
 This task helped me understand how to scan and analyze real system vulnerabilities using open-source tools like OpenVAS.
