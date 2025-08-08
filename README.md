@@ -36,9 +36,13 @@ Perform a basic vulnerability scan of a Windows 7 virtual machine using Nessus E
 
 ## Task-3-Nessus-Version
 ├── README.md
+
 ├── vulnerability_report.md
+
 ├── nessus_win7_scan.pdf    
-└── screenshots/
-    └── nessus_summary.png     
+
+|── screenshots/
+      
+    |── nessus_summary.png     
 
 
