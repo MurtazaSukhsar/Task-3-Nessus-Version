@@ -33,7 +33,7 @@ Perform a basic vulnerability scan of a Windows 7 virtual machine using Nessus E
 - `README.md` — Scan process and setup details.
 - `vulnerability_report.md` — Summary of vulnerabilities and recommendations.
 - `scan_screenshot.png` — Screenshot of Nessus results dashboard.
-- 'nessus_win7_scan.pdf' - Scan report of Nessus
+- `nessus_win7_scan.pdf` - Scan report of Nessus
 
 
 
