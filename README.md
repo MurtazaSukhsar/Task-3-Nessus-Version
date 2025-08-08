@@ -1,4 +1,4 @@
-# Task E — Vulnerability Assessment of Windows 7 VM
+# Task 3 — Vulnerability Assessment
 
 ## Objective
 Perform a basic vulnerability scan of a Windows 7 virtual machine using Nessus Essentials from the host machine, identify security issues, and document the findings.
@@ -9,8 +9,6 @@ Perform a basic vulnerability scan of a Windows 7 virtual machine using Nessus E
 - **Target Machine:** Windows 7 (VMware Workstation)
 - **Target IP:** 192.168.91.129
 - **Network Mode:** Host-only Adapter
-- **Date of Scan:** 8 August 2025
-- **Scan Duration:** ~5 minutes
 
 ## Steps Performed
 1. Configured VMware networking to allow communication between host and VM.
@@ -35,7 +33,4 @@ Perform a basic vulnerability scan of a Windows 7 virtual machine using Nessus E
 - `README.md` — Scan process and setup details.
 - `vulnerability_report.md` — Summary of vulnerabilities and recommendations.
 - `scan_screenshot.png` — Screenshot of Nessus results dashboard.
-- `scan_report.pdf` — Full Nessus exported PDF report (if available).
 
-## Notes
-The scan was **unauthenticated**, so results are based on network-visible vulnerabilities only. An authenticated scan could identify deeper OS and application issues.
